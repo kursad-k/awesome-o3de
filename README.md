@@ -20,11 +20,12 @@ Link farm form the O3DE engine
 
 # Assets
 
-[HDRi Skybox Component - Open 3D Engine](https://docs.o3de.org/docs/user-guide/components/reference/atom/hdri-skybox)
-
 [Texture Asset Guidelines - Open 3D Engine](https://docs.o3de.org/docs/user-guide/assets/texture-settings/texture-assets)
 
 [Adding and Removing Gems in a Project - Open 3D Engine](https://docs.o3de.org/docs/user-guide/project-config/add-remove-gems)
+
+[Texture Asset Guidelines - Open 3D Engine](https://docs.o3de.org/docs/user-guide/assets/texture-settings/texture-assets)
+
 
 # Rendering
 
@@ -34,6 +35,7 @@ Link farm form the O3DE engine
 
 [Working with Image Based Lighting (IBL) in O3DE - CO3DEX ](https://www.co3dex.com/blog/image-based-lighting-1)
 
+[HDRi Skybox Component - Open 3D Engine](https://docs.o3de.org/docs/user-guide/components/reference/atom/hdri-skybox)
 
 # Scripting
 
@@ -58,6 +60,8 @@ Link farm form the O3DE engine
 [Compiling under windows with windows clang · o3de/o3de · Discussion #13710 · GitHub](https://github.com/o3de/o3de/discussions/13710)
 
 [CMake Settings Reference - Open 3D Engine](https://docs.o3de.org/docs/user-guide/build/reference)
+
+[Create Distributable Open 3D Engine Builds - Open 3D Engine](https://docs.o3de.org/docs/user-guide/build/distributable-engine)
 
 # Integrations
 
