@@ -6,7 +6,9 @@ Link farm for the O3DE engine
 
 [Grid-based Movement - Open 3D Engine](https://www.docs.o3de.org/docs/learning-guide/tutorials/input-and-movement/grid-based-movement)
 
+[Pong Game Tutorial - YouTube](https://www.youtube.com/watch?v=kK0XnYFKw38&list=PLCQwFpnHSZQhhsr6iJqyeYqKe6dexnHh9&pp=iAQB)https://www.youtube.com/watch?v=kK0XnYFKw38&list=PLCQwFpnHSZQhhsr6iJqyeYqKe6dexnHh9&pp=iAQB
 
+[Multiplayer Game Sample - YouTube](https://www.youtube.com/watch?v=QYZiP9p5LPM&list=PLCQwFpnHSZQjDIkT9EqCNDWepsh8sTGMm&pp=iAQB)
 # Pipeline
 
 [Project Export CLI Tool - Open 3D Engine](https://docs.o3de.org/docs/user-guide/packaging/project-export/project-export-cli)
@@ -41,6 +43,15 @@ Link farm for the O3DE engine
 
 [Creating Gameplay and Other Behaviors with Script Canvas - Open 3D Engine](https://www.docs.o3de.org/docs/user-guide/scripting/script-canvas)
 
+[Script Canvas Overview - YouTube](https://www.youtube.com/watch?v=fTNcUV4zAgE)
+
+[Understanding Script Canvas - YouTube](https://www.youtube.com/watch?v=GYXG4nrQPnE)
+
+[Content Creation with Script Canvas - YouTube](https://www.youtube.com/watch?v=GUGw9XrGVjE)
+
+[The Script Canvas Pipeline - YouTube](https://www.youtube.com/watch?v=PP-sFjByvhA)
+
+[How to Use Multiplayer Scripting - YouTube](https://www.youtube.com/watch?v=3pWckmuHPSg)
 # Coding
 
 [DCC Scripting Interface ](https://github.com/o3de/o3de/tree/development/Gems/AtomLyIntegration/TechnicalArt/DccScriptingInterface)
