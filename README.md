@@ -72,6 +72,8 @@ Awesome resources and links for the O3DE engine
 
 [Using VSCode to build O3DE · o3de/o3de Wiki · GitHub](https://github.com/o3de/o3de/wiki/Using-VSCode-to-build-O3DE)
 
+[vscode-dbg-ext-o3de-lua: ](https://github.com/lumbermixalot/vscode-dbg-ext-o3de-lua) Visual Studio Code Debugger Extension For O3DE Lua Scripts.
+
 # Building
 
 [O3DE System Requirements - Open 3D Engine](https://docs.o3de.org/docs/welcome-guide/requirements)
