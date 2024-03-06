@@ -1,4 +1,5 @@
 # Awesome-O3DE
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 Link farm for the O3DE engine
 
 [Home - O3DE](https://o3de.org)
