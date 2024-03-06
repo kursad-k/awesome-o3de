@@ -45,6 +45,8 @@ Awesome resources and links for the O3DE engine
 
 [o3de/NewspaperDeliveryGame](https://github.com/o3de/NewspaperDeliveryGame) # Newspaper Delivery game demo project
 
+[o3de/ROSConDemo](https://github.com/o3de/ROSConDemo)  A robotic fruit picking demo project for O3DE with ROS 2 Gem
+
 # Rendering
 
 [Initial Sky Atmosphere by AMZN-alexpete · Pull Request](https://github.com/o3de/o3de/pull/9649)
