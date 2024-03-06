@@ -18,6 +18,8 @@ Awesome resources and links for the O3DE engine
 
 [Unreal Engine to O3DE - YouTube](https://www.youtube.com/watch?v=kZpJvNoPVPA&list=PLCQwFpnHSZQg_4lCmfXhCB5EjxieUbipk) And from Unreal to O3DE:
 
+[Physics & Tick Bus - YouTube](https://www.youtube.com/watch?v=EuQZUVYbeSc)
+
 # Pipeline
 
 [Project Export CLI Tool - Open 3D Engine](https://docs.o3de.org/docs/user-guide/packaging/project-export/project-export-cli)
@@ -48,6 +50,8 @@ Awesome resources and links for the O3DE engine
 [o3de/ROSConDemo](https://github.com/o3de/ROSConDemo)  A robotic fruit picking demo project for O3DE with ROS 2 Gem
 
 [Nvidia Bistro Demo](https://developer.nvidia.com/orca/amazon-lumberyard-bistro) Bistro scene for Lumberyard (O3DE predecessor)
+
+[RobotVacuumSample](https://github.com/o3de/RobotVacuumSample) Sample project for demonstrating a robotic vacuum simulation project
 
 # Rendering
 
@@ -96,6 +100,10 @@ Awesome resources and links for the O3DE engine
 
 [Create Distributable Open 3D Engine Builds - Open 3D Engine](https://docs.o3de.org/docs/user-guide/build/distributable-engine)
 
+[loherangrin/o3tanks: ](https://github.com/loherangrin/o3tanks) A command-line interface tool to build and run O3DE  in containers
+
+
+[RobotVacuumSample Docker](https://github.com/o3de/RobotVacuumSample/blob/main/Docker/README.md) # Docker scripts for running the O3DE Demo Project
 # Integrations
 
 [Level Up Your Games and Robotics Simulations with O3DE 23.05 - O3DE](https://o3de.org/level-up-your-games-and-robotics-simulations-with-o3de-23-05)
