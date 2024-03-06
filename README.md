@@ -4,15 +4,18 @@ Link farm form the O3DE engine
 
 # Tutorials
 
-# Scripting 
 
 
-# Pipelene
+# Pipeline
+
 [Project Export CLI Tool - Open 3D Engine](https://docs.o3de.org/docs/user-guide/packaging/project-export/project-export-cli)
+
+[kursad-k/o3de_blender_bridge: Transparent asset pipeline bridge from Blender to O3DE](https://github.com/kursad-k/o3de_blender_bridge)
 
 [Registering Gems to a Project - Open 3D Engine](https://docs.o3de.org/docs/user-guide/project-config/register-gems)
 
-[kursad-k/o3de_blender_bridge: Transparent asset pipeline bridge from Blender to O3DE](https://github.com/kursad-k/o3de_blender_bridge)
+[Adding and Removing Gems in a Project - Open 3D Engine](https://docs.o3de.org/docs/user-guide/project-config/add-remove-gems)
+
 
 # Assets
 
@@ -31,6 +34,12 @@ Link farm form the O3DE engine
 [Working with Image Based Lighting (IBL) in O3DE - CO3DEX ](https://www.co3dex.com/blog/image-based-lighting-1)
 
 
+# Scripting 
+
+[DCC ScriptingInterface ](https://github.com/o3de/o3de/tree/development/Gems/AtomLyIntegration/TechnicalArt/DccScriptingInterface)
+
+[O3DE User Defined Properties](https://docs.o3de.org/blog/posts/blog-udp)
+
 # Building
 
 [O3DE System Requirements - Open 3D Engine](https://docs.o3de.org/docs/welcome-guide/requirements)
@@ -38,3 +47,8 @@ Link farm form the O3DE engine
 [Configure and Build - Open 3D Engine](https://docs.o3de.org/docs/user-guide/build/configure-and-build)
 
 [Building for Windows - Open 3D Engine](https://docs.o3de.org/docs/welcome-guide/setup/setup-from-github/building-windows/#build-the-engine)
+
+
+# Workflows
+
+[Level Up Your Games and Robotics Simulations with O3DE 23.05 - O3DE](https://o3de.org/level-up-your-games-and-robotics-simulations-with-o3de-23-05)
