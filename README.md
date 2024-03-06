@@ -12,6 +12,8 @@ Link farm form the O3DE engine
 
 [Registering Gems to a Project - Open 3D Engine](https://docs.o3de.org/docs/user-guide/project-config/register-gems)
 
+[kursad-k/o3de_blender_bridge: Transparent asset pipeline bridge from Blender to O3DE](https://github.com/kursad-k/o3de_blender_bridge)
+
 # Assets
 
 [HDRi Skybox Component - Open 3D Engine](https://docs.o3de.org/docs/user-guide/components/reference/atom/hdri-skybox)
