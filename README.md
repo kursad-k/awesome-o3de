@@ -1,5 +1,16 @@
-# awesome-o3de
+# Awesome-O3DE
 Link farm for the O3DE engine
+
+
+```cardlink
+url: https://o3de.org/
+title: "Home - O3DE"
+description: "MEET O3DE An open source, real-time 3D engine DOWNLOAD Learn More"
+host: o3de.org
+favicon: https://o3de.org/wp-content/uploads/2023/06/URL-Logo-150x150.png
+image: https://o3de.org/wp-content/uploads/2023/06/black-bg-logo.jpg
+```
+
 
 
 # Tutorials
