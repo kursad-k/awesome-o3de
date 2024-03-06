@@ -4,6 +4,7 @@ Link farm form the O3DE engine
 
 # Tutorials
 
+[Grid-based Movement - Open 3D Engine](https://www.docs.o3de.org/docs/learning-guide/tutorials/input-and-movement/grid-based-movement)
 
 
 # Pipeline
@@ -34,11 +35,17 @@ Link farm form the O3DE engine
 [Working with Image Based Lighting (IBL) in O3DE - CO3DEX ](https://www.co3dex.com/blog/image-based-lighting-1)
 
 
-# Scripting 
+# Scripting
+
+[Creating Gameplay and Other Behaviors with Script Canvas - Open 3D Engine](https://www.docs.o3de.org/docs/user-guide/scripting/script-canvas)
+
+# Coding
 
 [DCC ScriptingInterface ](https://github.com/o3de/o3de/tree/development/Gems/AtomLyIntegration/TechnicalArt/DccScriptingInterface)
 
 [O3DE User Defined Properties](https://docs.o3de.org/blog/posts/blog-udp)
+
+[Using VSCode to build O3DE · o3de/o3de Wiki · GitHub](https://github.com/o3de/o3de/wiki/Using-VSCode-to-build-O3DE)
 
 # Building
 
@@ -48,7 +55,12 @@ Link farm form the O3DE engine
 
 [Building for Windows - Open 3D Engine](https://docs.o3de.org/docs/welcome-guide/setup/setup-from-github/building-windows/#build-the-engine)
 
+[Compiling under windows with windows clang · o3de/o3de · Discussion #13710 · GitHub](https://github.com/o3de/o3de/discussions/13710)
 
-# Workflows
+[CMake Settings Reference - Open 3D Engine](https://docs.o3de.org/docs/user-guide/build/reference)
+
+# Integrations
 
 [Level Up Your Games and Robotics Simulations with O3DE 23.05 - O3DE](https://o3de.org/level-up-your-games-and-robotics-simulations-with-o3de-23-05)
+
+[We Also Make Games: AWS’ First Internal O3DE Game is Now Available! | AWS for Games Blog](https://aws.amazon.com/blogs/gametech/we-also-make-games-aws-first-internal-o3de-game-is-now-available)
