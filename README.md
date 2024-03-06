@@ -1,5 +1,5 @@
 # awesome-o3de
-Link farm form the O3DE engine
+Link farm for the O3DE engine
 
 
 # Tutorials
@@ -43,7 +43,7 @@ Link farm form the O3DE engine
 
 # Coding
 
-[DCC ScriptingInterface ](https://github.com/o3de/o3de/tree/development/Gems/AtomLyIntegration/TechnicalArt/DccScriptingInterface)
+[DCC Scripting Interface ](https://github.com/o3de/o3de/tree/development/Gems/AtomLyIntegration/TechnicalArt/DccScriptingInterface)
 
 [O3DE User Defined Properties](https://docs.o3de.org/blog/posts/blog-udp)
 
