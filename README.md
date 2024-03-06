@@ -90,6 +90,6 @@ Awesome resources and links for the O3DE engine
 
 [Collection of Games that have the source code available on GitHub](https://github.com/michelpereira/awesome-open-source-games)
 
-[A curated list of awesome resources, related to game production process: books, articles, tools, project management stuff etc.](https://github.com/vhladiienko/awesome-game-production)
+[A curated list of awesome resources, related to game production process](https://github.com/vhladiienko/awesome-game-production)
 
 [A curated list of games that can teach you how to learn a programming language.](https://github.com/michelpereira/awesome-games-of-coding)
