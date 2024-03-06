@@ -11,6 +11,8 @@ Awesome resources and links for the O3DE engine
 [O3DE Pong Game Tutorial, Part 1 - YouTube](https://www.youtube.com/watch?v=kK0XnYFKw38&list=PLCQwFpnHSZQhhsr6iJqyeYqKe6dexnHh9&pp=iAQB)
 
 [Multiplayer Game Sample - YouTube](https://www.youtube.com/watch?v=QYZiP9p5LPM&list=PLCQwFpnHSZQjDIkT9EqCNDWepsh8sTGMm&pp=iAQB)
+
+[Learning Events Physics Character Decoupling Input - YouTube](https://www.youtube.com/watch?v=9_RhAtYFhKM)
 # Pipeline
 
 [Project Export CLI Tool - Open 3D Engine](https://docs.o3de.org/docs/user-guide/packaging/project-export/project-export-cli)
@@ -30,6 +32,9 @@ Awesome resources and links for the O3DE engine
 
 [Texture Asset Guidelines - Open 3D Engine](https://docs.o3de.org/docs/user-guide/assets/texture-settings/texture-assets)
 
+[o3de-samples-project-gems](https://github.com/o3de/o3de-samples-project-gems)
+
+[o3de-multiplayersample](https://github.com/o3de/o3de-multiplayersample) Multiplayer sample project for the Open 3D Engine
 
 # Rendering
 
