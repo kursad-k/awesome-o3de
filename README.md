@@ -115,3 +115,5 @@ Awesome resources and links for the O3DE engine
 # Companies
 
 [Robotec.ai](https://robotec.ai)  AI-enabled technologies for mobility
+
+[Genome Studios ](http://genomestudios.ca)
