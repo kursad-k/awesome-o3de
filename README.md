@@ -12,7 +12,7 @@ Awesome resources and links for the O3DE engine
 
 [Multiplayer Game Sample - YouTube](https://www.youtube.com/watch?v=QYZiP9p5LPM&list=PLCQwFpnHSZQjDIkT9EqCNDWepsh8sTGMm&pp=iAQB)
 
-[Learning Events Physics Character Decoupling Input - YouTube](https://www.youtube.com/watch?v=9_RhAtYFhKM)
+[Character physics - YouTube](https://www.youtube.com/watch?v=9_RhAtYFhKM) Learning Events Physics Character Decoupling Input
 
 [Sketchfab into O3DE - YouTube](https://www.youtube.com/watch?v=xUwCf6B-rZQ&list=PLCQwFpnHSZQg_4lCmfXhCB5EjxieUbipk) Importing from Sketchfab to o3de:
 
@@ -22,7 +22,7 @@ Awesome resources and links for the O3DE engine
 
 [Project Export CLI Tool - Open 3D Engine](https://docs.o3de.org/docs/user-guide/packaging/project-export/project-export-cli)
 
-[kursad-k/o3de_blender_bridge: Transparent asset pipeline bridge from Blender to O3DE](https://github.com/kursad-k/o3de_blender_bridge)
+[kursad-k/o3de_blender_bridge](https://github.com/kursad-k/o3de_blender_bridge) Transparent asset pipeline bridge from Blender to O3DE
 
 [Registering Gems to a Project - Open 3D Engine](https://docs.o3de.org/docs/user-guide/project-config/register-gems)
 
