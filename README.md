@@ -93,3 +93,7 @@ Awesome resources and links for the O3DE engine
 [A curated list of awesome resources, related to game production process](https://github.com/vhladiienko/awesome-game-production)
 
 [A curated list of games that can teach you how to learn a programming language.](https://github.com/michelpereira/awesome-games-of-coding)
+
+# Companies
+
+[Robotec.ai](https://robotec.ai)  AI-enabled technologies for mobility
