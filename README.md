@@ -1,5 +1,5 @@
 # Awesome-O3DE
-Link farm for the O3DE engine
+Awesome resources and links for the O3DE engine
 
 [Home - O3DE](https://o3de.org)
 
@@ -8,7 +8,7 @@ Link farm for the O3DE engine
 
 [Grid-based Movement - Open 3D Engine](https://www.docs.o3de.org/docs/learning-guide/tutorials/input-and-movement/grid-based-movement)
 
-[Pong Game Tutorial - YouTube](https://www.youtube.com/watch?v=kK0XnYFKw38&list=PLCQwFpnHSZQhhsr6iJqyeYqKe6dexnHh9&pp=iAQB)https://www.youtube.com/watch?v=kK0XnYFKw38&list=PLCQwFpnHSZQhhsr6iJqyeYqKe6dexnHh9&pp=iAQB
+[O3DE Pong Game Tutorial, Part 1 - YouTube](https://www.youtube.com/watch?v=kK0XnYFKw38&list=PLCQwFpnHSZQhhsr6iJqyeYqKe6dexnHh9&pp=iAQB)
 
 [Multiplayer Game Sample - YouTube](https://www.youtube.com/watch?v=QYZiP9p5LPM&list=PLCQwFpnHSZQjDIkT9EqCNDWepsh8sTGMm&pp=iAQB)
 # Pipeline
@@ -33,7 +33,7 @@ Link farm for the O3DE engine
 
 # Rendering
 
-[Initial Sky Atmosphere by AMZN-alexpete · Pull Request #9649 · o3de/o3de · GitHub](https://github.com/o3de/o3de/pull/9649)
+[Initial Sky Atmosphere by AMZN-alexpete · Pull Request](https://github.com/o3de/o3de/pull/9649)
 
 [Create cinematic sequences - Open 3D Engine](https://docs.o3de.org/docs/user-guide/visualization/cinematics)
 
