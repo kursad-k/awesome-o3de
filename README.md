@@ -47,6 +47,8 @@ Awesome resources and links for the O3DE engine
 
 [o3de/ROSConDemo](https://github.com/o3de/ROSConDemo)  A robotic fruit picking demo project for O3DE with ROS 2 Gem
 
+[Nvidia Bistro Demo](https://developer.nvidia.com/orca/amazon-lumberyard-bistro) Bistro scene for Lumberyard (O3DE predecessor)
+
 # Rendering
 
 [Initial Sky Atmosphere by AMZN-alexpete · Pull Request](https://github.com/o3de/o3de/pull/9649)
