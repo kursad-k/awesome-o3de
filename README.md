@@ -41,6 +41,10 @@ Awesome resources and links for the O3DE engine
 
 [o3de-multiplayersample](https://github.com/o3de/o3de-multiplayersample) Multiplayer sample project for the Open 3D Engine
 
+[o3de/PlanetSurvivalGame](https://github.com/o3de/PlanetSurvivalGame) Planet Survival Game is a Proof of concept Point and Click Turn Based Strategy Game
+
+[o3de/NewspaperDeliveryGame](https://github.com/o3de/NewspaperDeliveryGame) # Newspaper Delivery game demo project
+
 # Rendering
 
 [Initial Sky Atmosphere by AMZN-alexpete · Pull Request](https://github.com/o3de/o3de/pull/9649)
