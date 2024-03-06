@@ -13,6 +13,11 @@ Awesome resources and links for the O3DE engine
 [Multiplayer Game Sample - YouTube](https://www.youtube.com/watch?v=QYZiP9p5LPM&list=PLCQwFpnHSZQjDIkT9EqCNDWepsh8sTGMm&pp=iAQB)
 
 [Learning Events Physics Character Decoupling Input - YouTube](https://www.youtube.com/watch?v=9_RhAtYFhKM)
+
+[Sketchfab into O3DE - YouTube](https://www.youtube.com/watch?v=xUwCf6B-rZQ&list=PLCQwFpnHSZQg_4lCmfXhCB5EjxieUbipk) Importing from Sketchfab to o3de:
+
+[Unreal Engine to O3DE - YouTube](https://www.youtube.com/watch?v=kZpJvNoPVPA&list=PLCQwFpnHSZQg_4lCmfXhCB5EjxieUbipk) And from Unreal to O3DE:
+
 # Pipeline
 
 [Project Export CLI Tool - Open 3D Engine](https://docs.o3de.org/docs/user-guide/packaging/project-export/project-export-cli)
