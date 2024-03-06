@@ -43,7 +43,7 @@ Awesome resources and links for the O3DE engine
 
 [o3de/PlanetSurvivalGame](https://github.com/o3de/PlanetSurvivalGame) Planet Survival Game is a Proof of concept Point and Click Turn Based Strategy Game
 
-[o3de/NewspaperDeliveryGame](https://github.com/o3de/NewspaperDeliveryGame) # Newspaper Delivery game demo project
+[o3de/NewspaperDeliveryGame](https://github.com/o3de/NewspaperDeliveryGame) Newspaper Delivery game demo project
 
 [o3de/ROSConDemo](https://github.com/o3de/ROSConDemo)  A robotic fruit picking demo project for O3DE with ROS 2 Gem
 
@@ -59,7 +59,7 @@ Awesome resources and links for the O3DE engine
 
 # Scripting
 
-[Creating Gameplay and Other Behaviors with Script Canvas - Open 3D Engine](https://www.docs.o3de.org/docs/user-guide/scripting/script-canvas)
+[Behaviors with Script Canvas - Open 3D Engine](https://www.docs.o3de.org/docs/user-guide/scripting/script-canvas) Creating Gameplay and Other behaviors with script canvas
 
 [Script Canvas Overview - YouTube](https://www.youtube.com/watch?v=fTNcUV4zAgE)
 
