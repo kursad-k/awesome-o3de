@@ -26,6 +26,8 @@ Awesome resources and links for the O3DE engine
 
 [kursad-k/o3de_blender_bridge](https://github.com/kursad-k/o3de_blender_bridge) Transparent asset pipeline bridge from Blender to O3DE
 
+[ossls/blendyard](https://github.com/ossls/blendyard)  A collection of tools for working with Blender and O3DE
+
 [Registering Gems to a Project - Open 3D Engine](https://docs.o3de.org/docs/user-guide/project-config/register-gems)
 
 [Adding and Removing Gems in a Project - Open 3D Engine](https://docs.o3de.org/docs/user-guide/project-config/add-remove-gems)
@@ -53,8 +55,27 @@ Awesome resources and links for the O3DE engine
 
 [RobotVacuumSample](https://github.com/o3de/RobotVacuumSample) Sample project for demonstrating a robotic vacuum simulation project
 
-[Porcupine-Factory/FirstPersonController: O3DE](https://github.com/Porcupine-Factory/FirstPersonController) First Person Controller Gem #gem
+[GitHub - CesiumGS/cesium-o3de](https://github.com/CesiumGS/cesium-o3de)  Cesium for O3DE
+
+# Gems
+
+[BytesOfPiDev/Conversation](https://github.com/BytesOfPiDev/Conversation) A conversation and dialogue system for O3DE
+
+[Porcupine-Factory/FirstPersonController: O3DE](https://github.com/Porcupine-Factory/FirstPersonController) First Person Controller Gem
 - [O3DE First Person Interaction Toolkit](https://stevenharmongames.itch.io/03de-first-person-interaction-toolkit)  Accompanying assets by Steven Harmon Games
+
+[lumbermixalot/VolumetricCloudsForO3DE](https://github.com/lumbermixalot/VolumetricCloudsForO3DE)  A Gem (+Demo Project) for O3DE. Provides Volumetric Cloudscapes rendering
+
+[Porcupine-Factory/TimeDistortion](https://github.com/Porcupine-Factory/TimeDistortion) The Time Distort Gem gives you the ability to speed up or slow down the perceived time in your game
+
+[PopcornFX/O3DEPopcornFXPlugin](https://github.com/PopcornFX/O3DEPopcornFXPlugin) PopcornFX plugin for O3DE
+- [Gem installation - PopcornFX](https://www.popcornfx.com/docs/popcornfx-v2-18/plugins/o3de-gem/gem-installation)
+
+[loherangrin/addons.o3de.day-night-cycle](https://github.com/loherangrin/addons.o3de.day-night-cycle) An external module (gem) for O3DE to switch between day and night
+
+[lumbermixalot/RenderJoy](https://github.com/lumbermixalot/RenderJoy) A ShaderToy Clone for O3DE
+
+
 # Rendering
 
 [Initial Sky Atmosphere by AMZN-alexpete · Pull Request](https://github.com/o3de/o3de/pull/9649)
@@ -64,6 +85,8 @@ Awesome resources and links for the O3DE engine
 [Working with Image Based Lighting (IBL) in O3DE - CO3DEX ](https://www.co3dex.com/blog/image-based-lighting-1)
 
 [HDRi Skybox Component - Open 3D Engine](https://docs.o3de.org/docs/user-guide/components/reference/atom/hdri-skybox)
+
+[SMC](https://github.com/o3de/o3de/wiki/%5BAtom%5D-Shader-Management-Console-(SMC)) # Shader Management Console
 
 # Scripting
 
@@ -134,3 +157,9 @@ Awesome resources and links for the O3DE engine
 [Robotec.ai](https://robotec.ai)  AI-enabled technologies for mobility
 
 [Genome Studios ](http://genomestudios.ca)
+
+
+
+# Unorganized
+
+[Pull Request #17377 · o3de/o3de · GitHub](https://github.com/o3de/o3de/pull/17377) LegacyAssetConverter to export assets lumberyard to O3DE
