@@ -80,7 +80,7 @@ Awesome resources and links for the O3DE engine
 [How to Use Multiplayer Scripting - YouTube](https://www.youtube.com/watch?v=3pWckmuHPSg)
 # Coding
 
-[SelfishOlex/O3DEBookCode2111](https://github.com/SelfishOlex/O3DEBookCode2111) Accompanying project files and source code for the book "Game Programming with O3DE"
+[SelfishOlex/O3DEBookCode2111](https://github.com/SelfishOlex/O3DEBookCode2111) Project files and source code for the book "Game Programming with O3DE" 
 
 [DCC Scripting Interface ](https://github.com/o3de/o3de/tree/development/Gems/AtomLyIntegration/TechnicalArt/DccScriptingInterface)
 
