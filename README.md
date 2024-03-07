@@ -53,6 +53,8 @@ Awesome resources and links for the O3DE engine
 
 [RobotVacuumSample](https://github.com/o3de/RobotVacuumSample) Sample project for demonstrating a robotic vacuum simulation project
 
+[Porcupine-Factory/FirstPersonController: O3DE](https://github.com/Porcupine-Factory/FirstPersonController) First Person Controller Gem #gem
+- [O3DE First Person Interaction Toolkit](https://stevenharmongames.itch.io/03de-first-person-interaction-toolkit)  Accompanying assets by Steven Harmon Games
 # Rendering
 
 [Initial Sky Atmosphere by AMZN-alexpete · Pull Request](https://github.com/o3de/o3de/pull/9649)
@@ -78,6 +80,8 @@ Awesome resources and links for the O3DE engine
 [How to Use Multiplayer Scripting - YouTube](https://www.youtube.com/watch?v=3pWckmuHPSg)
 # Coding
 
+[SelfishOlex/O3DEBookCode2111](https://github.com/SelfishOlex/O3DEBookCode2111) Accompanying project files and source code for the book "Game Programming with O3DE"
+
 [DCC Scripting Interface ](https://github.com/o3de/o3de/tree/development/Gems/AtomLyIntegration/TechnicalArt/DccScriptingInterface)
 
 [O3DE User Defined Properties](https://docs.o3de.org/blog/posts/blog-udp)
@@ -102,8 +106,11 @@ Awesome resources and links for the O3DE engine
 
 [loherangrin/o3tanks: ](https://github.com/loherangrin/o3tanks) A command-line interface tool to build and run O3DE  in containers
 
+[Running high-fidelity O3DE simulations in AWS RoboMaker](https://aws.amazon.com/blogs/robotics/running-high-fidelity-o3de-simulations-in-aws-robomaker)
+
 
 [RobotVacuumSample Docker](https://github.com/o3de/RobotVacuumSample/blob/main/Docker/README.md) # Docker scripts for running the O3DE Demo Project
+
 # Integrations
 
 [Level Up Your Games and Robotics Simulations with O3DE 23.05 - O3DE](https://o3de.org/level-up-your-games-and-robotics-simulations-with-o3de-23-05)
