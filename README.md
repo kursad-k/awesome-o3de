@@ -57,6 +57,8 @@ Awesome resources and links for the O3DE engine
 
 [GitHub - CesiumGS/cesium-o3de](https://github.com/CesiumGS/cesium-o3de)  Cesium for O3DE
 
+[o3de/buongiorno-sample](https://github.com/o3de/buongiorno-sample) Buongiorno Sample and Gem for O3DE
+
 # Gems
 
 [BytesOfPiDev/Conversation](https://github.com/BytesOfPiDev/Conversation) A conversation and dialogue system for O3DE
