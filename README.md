@@ -165,6 +165,7 @@ Awesome resources and links for the O3DE engine
 # Communities
 
 [Open 3D Foundation Discord](https://discord.com/invite/o3de)
+
 [ArtistDev Cafe Discord](https://discord.gg/x3FvJQPT)
 
 # Unorganized
