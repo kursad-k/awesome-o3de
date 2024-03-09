@@ -162,6 +162,11 @@ Awesome resources and links for the O3DE engine
 
 
 
+# Communities
+
+[Open 3D Foundation Discord](https://discord.com/invite/o3de)
+[ArtistDev Cafe Discord](https://discord.gg/x3FvJQPT)
+
 # Unorganized
 
 [Pull Request #17377 · o3de/o3de · GitHub](https://github.com/o3de/o3de/pull/17377) LegacyAssetConverter to export assets lumberyard to O3DE
