@@ -168,6 +168,8 @@ Awesome resources and links for the O3DE engine
 
 [ArtistDev Cafe Discord](https://discord.gg/x3FvJQPT)
 
+[Reddit - O3DE](https://www.reddit.com/r/O3DE)
+
 # Unorganized
 
 [Pull Request #17377 · o3de/o3de · GitHub](https://github.com/o3de/o3de/pull/17377) LegacyAssetConverter to export assets lumberyard to O3DE
