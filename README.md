@@ -20,6 +20,7 @@ Awesome resources and links for the O3DE engine
 
 [Physics & Tick Bus - YouTube](https://www.youtube.com/watch?v=EuQZUVYbeSc)
 
+[Setting up your Human Avatar Visuals - YouTube](https://www.youtube.com/watch?v=96js30gsouY) Skin setup in O3DE
 # Pipeline
 
 [Project Export CLI Tool - Open 3D Engine](https://docs.o3de.org/docs/user-guide/packaging/project-export/project-export-cli)
