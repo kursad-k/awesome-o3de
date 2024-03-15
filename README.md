@@ -78,6 +78,8 @@ Awesome resources and links for the O3DE engine
 
 [lumbermixalot/RenderJoy](https://github.com/lumbermixalot/RenderJoy) A ShaderToy Clone for O3DE
 
+[RobotecAI/o3de-humanworker-gem](https://github.com/RobotecAI/o3de-humanworker-gem)  HumanWorker Gem for O3DE
+
 
 # Rendering
 
