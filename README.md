@@ -163,6 +163,7 @@ Awesome resources and links for the O3DE engine
 
 # AI
 [RFC: Gen AI  o3de/sig-simulation · GitHub](https://github.com/o3de/sig-simulation/issues/87) Gen AI Framework Gem
+
 [Machine learning  o3de/o3de-extras · GitHub](https://github.com/o3de/o3de-extras/pull/487) Machine learning Gem by by kberg0
 
 # Companies
