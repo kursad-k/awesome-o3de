@@ -60,6 +60,8 @@ Awesome resources and links for the O3DE engine
 
 [o3de/buongiorno-sample](https://github.com/o3de/buongiorno-sample) Buongiorno Sample and Gem for O3DE
 
+[RobotecAI/ROSCon2023Demo ](https://github.com/RobotecAI/ROSCon2023Demo) Large-scale, multi-robot simulation of a teeming warehouse in Open 3D Engine (O3DE)
+
 # Gems
 
 [BytesOfPiDev/Conversation](https://github.com/BytesOfPiDev/Conversation) A conversation and dialogue system for O3DE
@@ -156,6 +158,12 @@ Awesome resources and links for the O3DE engine
 [A curated list of awesome resources, related to game production process](https://github.com/vhladiienko/awesome-game-production)
 
 [A curated list of games that can teach you how to learn a programming language.](https://github.com/michelpereira/awesome-games-of-coding)
+
+
+
+# AI
+[RFC: Gen AI  o3de/sig-simulation · GitHub](https://github.com/o3de/sig-simulation/issues/87) Gen AI Framework Gem
+[Machine learning  o3de/o3de-extras · GitHub](https://github.com/o3de/o3de-extras/pull/487) Machine learning Gem by by kberg0
 
 # Companies
 
