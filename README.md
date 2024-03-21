@@ -177,7 +177,7 @@ Awesome resources and links for the O3DE engine
 
 [Genome Studios ](http://genomestudios.ca)
 
-
+[Carbonated Inc.](carbonated.com)
 
 # Communities
 
